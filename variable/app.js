@@ -6,5 +6,5 @@ var b = 2;
 b = 6;
 console.log(b);
 
-const c = a2;
+const c = "a2";
 console.log(c);

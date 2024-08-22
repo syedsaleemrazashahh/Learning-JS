@@ -14,3 +14,14 @@
 // undefined
 // null
 // String
+
+// ye sab convert karne k liye use kiye jate hein
+
+// parseInt
+// parseFloat
+// Number
+// `Math.floor
+
+// parseInt string ko number mein convert karta hai
+
+// parseFloat point k baad wali value ko b add karta hai paseInt point k baad wali value to add nahi karta hai
