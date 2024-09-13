@@ -25,3 +25,14 @@
 // parseInt string ko number mein convert karta hai
 
 // parseFloat point k baad wali value ko b add karta hai paseInt point k baad wali value to add nahi karta hai
+
+// truthy values
+// falsy ky illawa sab turthy hyn
+
+// falsy values
+// 0
+// null
+// undefined
+// ""
+// NaN
+// false
